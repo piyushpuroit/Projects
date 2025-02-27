@@ -1,2 +1,2 @@
 # Projects
-Web development Internship Project
+java development Internship Projects
